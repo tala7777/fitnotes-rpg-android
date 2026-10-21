@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.fitnessappdemo'
+    namespace 'com.example.fitnotesrpg'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.example.fitnessappdemo"
+        applicationId "com.example.fitnotesrpg"
         minSdk 24
         targetSdk 32
         versionCode 1
